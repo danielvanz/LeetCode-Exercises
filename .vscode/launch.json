@@ -1,0 +1,399 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch exercise66",
+      "request": "launch",
+      "mainClass": "exercise66",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise15",
+      "request": "launch",
+      "mainClass": "exercise15",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise13",
+      "request": "launch",
+      "mainClass": "exercise13",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise26",
+      "request": "launch",
+      "mainClass": "exercise26",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch subsetPrinter",
+      "request": "launch",
+      "mainClass": "subsetPrinter",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise78",
+      "request": "launch",
+      "mainClass": "exercise78",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise344",
+      "request": "launch",
+      "mainClass": "exercise344",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise70",
+      "request": "launch",
+      "mainClass": "exercise70",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise6210",
+      "request": "launch",
+      "mainClass": "exercise6210",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise6209",
+      "request": "launch",
+      "mainClass": "exercise6209",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise1531",
+      "request": "launch",
+      "mainClass": "exercise1531",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch homeworkset5",
+      "request": "launch",
+      "mainClass": "homeworkset5",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise976",
+      "request": "launch",
+      "mainClass": "exercise976",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise334",
+      "request": "launch",
+      "mainClass": "exercise334",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise16",
+      "request": "launch",
+      "mainClass": "exercise16",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise37",
+      "request": "launch",
+      "mainClass": "exercise37",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise1578",
+      "request": "launch",
+      "mainClass": "exercise1578",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise1155",
+      "request": "launch",
+      "mainClass": "exercise1155",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise91",
+      "request": "launch",
+      "mainClass": "exercise91",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise994",
+      "request": "launch",
+      "mainClass": "exercise994",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise621",
+      "request": "launch",
+      "mainClass": "exercise621",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise2131",
+      "request": "launch",
+      "mainClass": "exercise2131",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise6186",
+      "request": "launch",
+      "mainClass": "exercise6186",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise6185",
+      "request": "launch",
+      "mainClass": "exercise6185",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise1770",
+      "request": "launch",
+      "mainClass": "exercise1770",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch amazonQuestion2",
+      "request": "launch",
+      "mainClass": "amazonQuestion2",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch amazonPractice",
+      "request": "launch",
+      "mainClass": "amazonPractice",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise2007",
+      "request": "launch",
+      "mainClass": "exercise2007",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise948",
+      "request": "launch",
+      "mainClass": "exercise948",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise43",
+      "request": "launch",
+      "mainClass": "exercise43",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise14",
+      "request": "launch",
+      "mainClass": "exercise14",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise1706",
+      "request": "launch",
+      "mainClass": "exercise1706",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise54",
+      "request": "launch",
+      "mainClass": "exercise54",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise202",
+      "request": "launch",
+      "mainClass": "exercise202",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise724",
+      "request": "launch",
+      "mainClass": "exercise724",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch microsoft2",
+      "request": "launch",
+      "mainClass": "microsoft2",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch debugTest1",
+      "request": "launch",
+      "mainClass": "debugTest1",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise6172",
+      "request": "launch",
+      "mainClass": "exercise6172",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise118",
+      "request": "launch",
+      "mainClass": "exercise118",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise6158",
+      "request": "launch",
+      "mainClass": "exercise6158",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise6157",
+      "request": "launch",
+      "mainClass": "exercise6157",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise6156",
+      "request": "launch",
+      "mainClass": "exercise6156",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise20",
+      "request": "launch",
+      "mainClass": "exercise20",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise242",
+      "request": "launch",
+      "mainClass": "exercise242",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise387",
+      "request": "launch",
+      "mainClass": "exercise387",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise566",
+      "request": "launch",
+      "mainClass": "exercise566",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise1",
+      "request": "launch",
+      "mainClass": "exercise1",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise121",
+      "request": "launch",
+      "mainClass": "exercise121",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise217",
+      "request": "launch",
+      "mainClass": "exercise217",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise350",
+      "request": "launch",
+      "mainClass": "exercise350",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise383",
+      "request": "launch",
+      "mainClass": "exercise383",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise53",
+      "request": "launch",
+      "mainClass": "exercise53",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise566",
+      "request": "launch",
+      "mainClass": "exercise566.exercise566",
+      "projectName": "LeetCode Exercises_87e27a94"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise88",
+      "request": "launch",
+      "mainClass": "exercise88",
+      "projectName": "LeetCode Exercises_87e27a94"
+    }
+  ]
+}
