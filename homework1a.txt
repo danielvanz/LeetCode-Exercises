@@ -1,7 +1,0 @@
-Algorithm Backtrack(A, minCost, vertexQueue)
-    if vertexQueue.isEmpty
-        then return minCost
-        else vertex v = vertexQueue.poll()
-            for i = 1 to minCost
-                do 
-
